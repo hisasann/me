@@ -1,0 +1,13 @@
+{
+  "name": "@hisasann/me",
+  "version": "0.0.1",
+  "main": "/bin/me.js",
+  "license": "MIT",
+  "bin": {
+    "hisasann": "bin/me.js"
+  },
+  "files": [
+    "bin/me.js",
+    "bin/output"
+  ],
+}
