@@ -1,6 +1,6 @@
 {
   "name": "@hisasann/me",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "/bin/me.js",
   "license": "MIT",
   "bin": {
