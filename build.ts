@@ -20,8 +20,8 @@ const data: any = {
   name: chalk.white('hisasann'),
 };
 
-const output: string = data.name
-console.log(chalk.green(boxen(output, options)))
+const output: string = data.name;
+console.log(chalk.green(boxen(output, options)));
 
 fs.writeFileSync(
   path.join(__dirname, 'bin/output'),

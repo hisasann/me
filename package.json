@@ -8,7 +8,8 @@
     "ts": "NODE_OPTIONS=\"--loader ts-node/esm\" node build.ts",
     "ts-esm": "node --loader ts-node/esm build.ts",
     "build": "tsc",
-    "watch": "tsc -w"
+    "watch": "tsc -w",
+    "format": "prettier --write ."
   },
   "main": "/bin/me.js",
   "license": "MIT",
